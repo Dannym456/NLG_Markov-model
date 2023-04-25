@@ -4,6 +4,9 @@
 - This code was built in Google Colab so if you would like to replicate this process then please follow this link to the colab file: "https://colab.research.google.com/drive/1xOCWS3-FBKdIrPI1TU1V1D2yrGAna36O?usp=sharing".
 --If you do decide to run this on colab, make sure you change the "runtime type" to "GPU" or "TPU" for the best possible experience.
 - If you prefer to run this on your own IDE then the ipynb file for the code is provided along with the dataset that we built the model on.
+- Please find the datasets used to train the model at this google drive link "https://drive.google.com/drive/folders/1oZCwQFwzhkndHimdmbqG5UISqmgXCm-N?usp=sharing"
+- If you want the original websites find them below:
+-- "http://help.sentiment140.com/home" & "https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter"
 
 
 ## Features
