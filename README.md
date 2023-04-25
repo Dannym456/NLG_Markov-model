@@ -30,8 +30,7 @@ Install the dependencies below when running the code.
 !pip install openai
 ```
 
-For colab environments; if you are bringing in the dataset via google drive
-*Please replace the text within the double quotes with the file location of your dataset*
+For colab environments; you should be able to run this line of code if you have clicked this link "https://drive.google.com/drive/folders/1oZCwQFwzhkndHimdmbqG5UISqmgXCm-N?usp=sharing" and were granted access, but if you come upon any errors then please download the datasets yourself and bring them into the colab session manually. *If this is the case then you do not need to run the line of code below*
 
 ```sh
 from google.colab import drive
